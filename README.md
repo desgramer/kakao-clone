@@ -1,3 +1,3 @@
 # KaKao Clone Study.
 
-화이팅.
+HTML & CSS 처음 공부한다. 재밌겠다.
